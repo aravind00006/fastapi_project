@@ -11,5 +11,6 @@ dependencies = [
     "imageio>=2.37.2",
     "imagekitio==4.2.0",
     "python-dotenv>=1.2.1",
+    "streamlit>=1.53.1",
     "uvicorn[standard]>=0.40.0",
 ]
